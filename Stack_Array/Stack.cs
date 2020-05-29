@@ -4,7 +4,6 @@ namespace Stack_Array
     using System;
     using System.Collections;
     using System.Collections.Generic;
-    using System.Runtime.Serialization;
 
     public class Stack<T> : IEnumerable<T>
     {
@@ -73,6 +72,5 @@ namespace Stack_Array
         }
 
         #endregion
-
     }
 }
