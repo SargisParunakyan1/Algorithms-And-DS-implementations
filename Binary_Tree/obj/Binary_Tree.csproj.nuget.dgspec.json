@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Binary_Tree\\Binary_Tree.csproj": {}
+    "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Binary_Tree\\Binary_Tree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Binary_Tree\\Binary_Tree.csproj": {
+    "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Binary_Tree\\Binary_Tree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Binary_Tree\\Binary_Tree.csproj",
+        "projectUniqueName": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Binary_Tree\\Binary_Tree.csproj",
         "projectName": "Binary_Tree",
-        "projectPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Binary_Tree\\Binary_Tree.csproj",
+        "projectPath": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Binary_Tree\\Binary_Tree.csproj",
         "packagesPath": "C:\\Users\\Sargis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Binary_Tree\\obj\\",
+        "outputPath": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Binary_Tree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sargis\\AppData\\Roaming\\NuGet\\NuGet.Config",

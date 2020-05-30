@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Binary_Search\\Binary_Search.csproj",
+      "projectUniqueName": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Binary_Search\\Binary_Search.csproj",
       "projectName": "Binary_Search",
-      "projectPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Binary_Search\\Binary_Search.csproj",
+      "projectPath": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Binary_Search\\Binary_Search.csproj",
       "packagesPath": "C:\\Users\\Sargis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Binary_Search\\obj\\",
+      "outputPath": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Binary_Search\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sargis\\AppData\\Roaming\\NuGet\\NuGet.Config",

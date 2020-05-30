@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\BinaryTree_Horvick\\BinaryTree_Horvick.csproj",
+      "projectUniqueName": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\BinaryTree_Horvick\\BinaryTree_Horvick.csproj",
       "projectName": "BinaryTree_Horvick",
-      "projectPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\BinaryTree_Horvick\\BinaryTree_Horvick.csproj",
+      "projectPath": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\BinaryTree_Horvick\\BinaryTree_Horvick.csproj",
       "packagesPath": "C:\\Users\\Sargis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\BinaryTree_Horvick\\obj\\",
+      "outputPath": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\BinaryTree_Horvick\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sargis\\AppData\\Roaming\\NuGet\\NuGet.Config",

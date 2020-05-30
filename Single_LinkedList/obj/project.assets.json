@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Single_LinkedList\\Single_LinkedList_Horvick.csproj",
+      "projectUniqueName": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Single_LinkedList\\Single_LinkedList_Horvick.csproj",
       "projectName": "Single_LinkedList_Horvick",
-      "projectPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Single_LinkedList\\Single_LinkedList_Horvick.csproj",
+      "projectPath": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Single_LinkedList\\Single_LinkedList_Horvick.csproj",
       "packagesPath": "C:\\Users\\Sargis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Single_LinkedList\\obj\\",
+      "outputPath": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Single_LinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sargis\\AppData\\Roaming\\NuGet\\NuGet.Config",

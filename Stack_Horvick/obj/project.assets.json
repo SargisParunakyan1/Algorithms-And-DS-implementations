@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Stack_Horvick\\Stack_LinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Stack_Horvick\\Stack_LinkedList.csproj",
       "projectName": "Stack_LinkedList",
-      "projectPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Stack_Horvick\\Stack_LinkedList.csproj",
+      "projectPath": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Stack_Horvick\\Stack_LinkedList.csproj",
       "packagesPath": "C:\\Users\\Sargis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Stack_Horvick\\obj\\",
+      "outputPath": "C:\\Users\\Sargis\\OneDrive\\Рабочий стол\\Algorithms And Data Structurers\\Algorithms-And-DS-implementations\\Stack_Horvick\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sargis\\AppData\\Roaming\\NuGet\\NuGet.Config",
