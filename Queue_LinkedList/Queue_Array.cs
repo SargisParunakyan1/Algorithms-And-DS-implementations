@@ -159,7 +159,7 @@ namespace Queue
                 else
                 {
                     //head -> tail
-                    for (int index = 0; index <= _tail; index++)
+                    for (int index = _head; index <= _tail; index++)
                     {
                         yield return _items[index];
                     }
