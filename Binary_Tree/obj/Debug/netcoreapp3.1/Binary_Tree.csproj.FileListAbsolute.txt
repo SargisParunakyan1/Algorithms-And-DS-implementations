@@ -11,3 +11,16 @@ C:\Users\Sargis\source\repos\Algorithms And Data Structures\Binary_Tree\bin\Debu
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.dll
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.pdb
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.genruntimeconfig.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.exe
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.deps.json
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.runtimeconfig.json
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.runtimeconfig.dev.json
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.dll
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\bin\Debug\netcoreapp3.1\Binary_Tree.pdb
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.csprojAssemblyReference.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.csproj.CoreCompileInputs.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.AssemblyInfoInputs.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.AssemblyInfo.cs
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.dll
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.pdb
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Tree\obj\Debug\netcoreapp3.1\Binary_Tree.genruntimeconfig.cache

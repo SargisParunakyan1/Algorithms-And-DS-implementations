@@ -1,3 +1,7 @@
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Single_LinkedList\obj\Debug\netcoreapp3.1\Single_LinkedList_Horvick.csproj.CoreCompileInputs.cache
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Single_LinkedList\obj\Debug\netcoreapp3.1\Single_LinkedList_Horvick.AssemblyInfoInputs.cache
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Single_LinkedList\obj\Debug\netcoreapp3.1\Single_LinkedList_Horvick.AssemblyInfo.cs
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Single_LinkedList\obj\Debug\netcoreapp3.1\Single_LinkedList_Horvick.csprojAssemblyReference.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Single_LinkedList\obj\Debug\netcoreapp3.1\Single_LinkedList_Horvick.csproj.CoreCompileInputs.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Single_LinkedList\obj\Debug\netcoreapp3.1\Single_LinkedList_Horvick.AssemblyInfoInputs.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Single_LinkedList\obj\Debug\netcoreapp3.1\Single_LinkedList_Horvick.AssemblyInfo.cs

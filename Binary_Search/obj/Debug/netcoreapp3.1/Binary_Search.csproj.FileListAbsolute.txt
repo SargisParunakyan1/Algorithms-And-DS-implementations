@@ -11,3 +11,16 @@ C:\Users\Sargis\source\repos\Algorithms And Data Structures\Binary_Search\obj\De
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search.dll
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search.pdb
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search.genruntimeconfig.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search.exe
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search.deps.json
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search.runtimeconfig.json
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search.runtimeconfig.dev.json
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search.dll
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search.pdb
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search.csprojAssemblyReference.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search.AssemblyInfoInputs.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search.AssemblyInfo.cs
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search.dll
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search.pdb
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search.genruntimeconfig.cache

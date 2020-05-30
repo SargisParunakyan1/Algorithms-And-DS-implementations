@@ -11,3 +11,16 @@ C:\Users\Sargis\source\repos\Algorithms And Data Structures\Buble_Sort\obj\Debug
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Buble_Sort\obj\Debug\netcoreapp3.1\Buble_Sort.dll
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Buble_Sort\obj\Debug\netcoreapp3.1\Buble_Sort.pdb
 C:\Users\Sargis\source\repos\Algorithms And Data Structures\Buble_Sort\obj\Debug\netcoreapp3.1\Buble_Sort.genruntimeconfig.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\bin\Debug\netcoreapp3.1\Buble_Sort.exe
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\bin\Debug\netcoreapp3.1\Buble_Sort.deps.json
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\bin\Debug\netcoreapp3.1\Buble_Sort.runtimeconfig.json
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\bin\Debug\netcoreapp3.1\Buble_Sort.runtimeconfig.dev.json
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\bin\Debug\netcoreapp3.1\Buble_Sort.dll
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\bin\Debug\netcoreapp3.1\Buble_Sort.pdb
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\obj\Debug\netcoreapp3.1\Buble_Sort.csprojAssemblyReference.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\obj\Debug\netcoreapp3.1\Buble_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\obj\Debug\netcoreapp3.1\Buble_Sort.AssemblyInfoInputs.cache
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\obj\Debug\netcoreapp3.1\Buble_Sort.AssemblyInfo.cs
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\obj\Debug\netcoreapp3.1\Buble_Sort.dll
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\obj\Debug\netcoreapp3.1\Buble_Sort.pdb
+C:\Users\Sargis\OneDrive\Рабочий стол\Algorithms And Data Structurers\Algorithms-And-DS-implementations\Buble_Sort\obj\Debug\netcoreapp3.1\Buble_Sort.genruntimeconfig.cache
