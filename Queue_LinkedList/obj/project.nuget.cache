@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OeM3ewhSL8oLBRm/NIODW9oZrjiKOw74E7wO9B38vyu3N0YXOU3GK93GB87+pUzjqslVf31lKfh3cSRJjiGu+A==",
+  "dgSpecHash": "p4qWuNwMmBywKbYX7RM3fgqOBStvjIHKOcn639Z10cNnUUMoxOAd9fo15qcWnf3lGadHmekDF13YQTPHNta8YA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Queue_LinkedList\\Queue_LinkedList.csproj",
+  "projectFilePath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Queue_LinkedList\\Queue.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

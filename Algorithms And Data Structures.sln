@@ -49,9 +49,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single_LinkedList_Horvick",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doubly_LinkedList_Horvick", "Doubly_LinkedList\Doubly_LinkedList_Horvick.csproj", "{C4EBB1CB-6DBF-42F6-86EA-D9EC4A3CF3DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_LinkedList", "Stack_Horvick\Stack_LinkedList.csproj", "{A56C8E68-580E-4000-9367-4C0444F96FBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack_LinkedList", "Stack_Horvick\Stack_LinkedList.csproj", "{A56C8E68-580E-4000-9367-4C0444F96FBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_Array", "Stack_Array\Stack_Array.csproj", "{75A3C67C-929B-4893-AA35-D6A2305E96B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack_Array", "Stack_Array\Stack_Array.csproj", "{75A3C67C-929B-4893-AA35-D6A2305E96B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_LinkedList", "Queue_LinkedList\Queue_LinkedList.csproj", "{9B85D508-7626-4E12-89CE-FA141145D37C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,6 +97,10 @@ Global
 		{75A3C67C-929B-4893-AA35-D6A2305E96B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75A3C67C-929B-4893-AA35-D6A2305E96B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75A3C67C-929B-4893-AA35-D6A2305E96B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B85D508-7626-4E12-89CE-FA141145D37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B85D508-7626-4E12-89CE-FA141145D37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B85D508-7626-4E12-89CE-FA141145D37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B85D508-7626-4E12-89CE-FA141145D37C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,6 +129,7 @@ Global
 		{C4EBB1CB-6DBF-42F6-86EA-D9EC4A3CF3DE} = {5EE7A5B7-667B-4454-8B60-95245F454E1A}
 		{A56C8E68-580E-4000-9367-4C0444F96FBB} = {7C6734A2-D192-4519-BCFF-92C81BD395B8}
 		{75A3C67C-929B-4893-AA35-D6A2305E96B1} = {7C6734A2-D192-4519-BCFF-92C81BD395B8}
+		{9B85D508-7626-4E12-89CE-FA141145D37C} = {44DC3ACD-CF12-407C-BE69-37DCAF122978}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B82ACCFC-A764-4E1B-A239-38F10DB5E634}

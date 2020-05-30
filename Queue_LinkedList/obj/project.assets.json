@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Queue_LinkedList\\Queue_LinkedList.csproj",
-      "projectName": "Queue_LinkedList",
-      "projectPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Queue_LinkedList\\Queue_LinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Queue_LinkedList\\Queue.csproj",
+      "projectName": "Queue",
+      "projectPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Queue_LinkedList\\Queue.csproj",
       "packagesPath": "C:\\Users\\Sargis\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sargis\\source\\repos\\Algorithms And Data Structures\\Queue_LinkedList\\obj\\",
       "projectStyle": "PackageReference",

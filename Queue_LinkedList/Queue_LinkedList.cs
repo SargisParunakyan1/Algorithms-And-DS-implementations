@@ -5,7 +5,7 @@ namespace Queue_LinkedList
     using System.Collections;
     using System.Collections.Generic;
 
-    class Queue<T> : IEnumerable<T>
+    class Queue_LinkedList<T> : IEnumerable<T>
     {
         #region Fields
 
