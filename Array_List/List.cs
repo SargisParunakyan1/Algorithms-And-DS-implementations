@@ -4,7 +4,6 @@ namespace Array_List
     using System;
     using System.Collections;
     using System.Collections.Generic;
-
     public class List<T> : IList<T>
     {
         #region Fields
