@@ -27,7 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Trees", "Trees", "{A1E49F3C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphs", "Graphs", "{3044BD56-1EC0-4CEA-8458-4FCF457F78FD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hashing", "Hashing", "{78DF521A-1DDB-4A2C-A274-63ECCFE5F34C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HashTable", "HashTable", "{78DF521A-1DDB-4A2C-A274-63ECCFE5F34C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buble_Sort", "Buble_Sort\Buble_Sort.csproj", "{F03DCEF9-C3DB-4B90-9628-B83EBD34C4A7}"
 EndProject
@@ -63,7 +63,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArrayList", "ArrayList", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_List", "Array_List\Array_List.csproj", "{6200F363-4A7F-4C24-A3AE-963B76E78487}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash_Table", "Hash_Table\Hash_Table.csproj", "{1B35DE97-ADDA-4228-9103-7CF58DD29C6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash_Table", "Hash_Table\Hash_Table.csproj", "{1B35DE97-ADDA-4228-9103-7CF58DD29C6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
