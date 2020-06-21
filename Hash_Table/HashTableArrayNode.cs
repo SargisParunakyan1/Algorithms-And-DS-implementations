@@ -3,7 +3,6 @@ namespace Hash_Table
 {
     using System;
     using System.Collections.Generic;
-    using System.Text;
 
     /// <summary>
     /// The hash table data chain

@@ -2,35 +2,32 @@
 namespace Buble_Sort
 {
     using System;
+    using System.Diagnostics.CodeAnalysis;
 
-    public class BubleSorting
+    public class BubleSorting<T>  where T: IComparable<T>
     {
-        public static void Sort(int[] unsorted)
+        public static  void Sort(T[] unsorted)
         {
-            if (unsorted == null)
-            {
-                throw new ArgumentException("Array could not be sorted. It is null.");
-            }
+            bool swapped;
 
-            if (unsorted.Length == 1)
+            do
             {
-                return;
-            }
 
-
-            for (int j = 0; j < unsorted.Length; j++)
-            {
-                for (int i = j + 1; i < unsorted.Length; i++)
+                swapped = false;
+                
+                for (int i = 1; i < unsorted.Length; i++) 
                 {
-                    if (unsorted[j] > unsorted[i])
+                    if (unsorted[i-1].CompareTo(unsorted[i]) > 0) 
                     {
-                        Swap(unsorted, j, i);
+                        Swap(unsorted, i - 1, i);
+                        swapped = true;
                     }
                 }
-            }
+
+            }while (swapped != false);
         }
 
-        private static void Swap(int[] target, int left, int right)
+        private static void Swap(T[] target, int left, int right)
         {
             var temp = target[left];
             target[left] = target[right];
@@ -59,7 +56,7 @@ namespace Buble_Sort
                 Console.WriteLine("Array after sorting like this.");
                 Console.WriteLine();
 
-                BubleSorting.Sort(integers);
+                BubleSorting<int>.Sort(integers);
                 foreach(int i in integers)
                 {
                     Console.WriteLine(i);

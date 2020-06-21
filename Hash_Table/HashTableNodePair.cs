@@ -1,8 +1,6 @@
 ﻿
 namespace Hash_Table
 {
-    using System;
-
     public class HashTableNodePair<TKey, TValue>
     {
         #region Properties
